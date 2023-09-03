@@ -1,10 +1,8 @@
-import React from 'react'
+"use client"
 
 const page = () => {
   return (
-    function (props) { 
-      
-    }
+    <div>First Page</div>
   )
 }
 
